@@ -9,16 +9,16 @@ body{
   background: rgb(245,245,245);
   color: green;
   font-size: 25px;
-  font-family: Noto Serif KR;
+  font-family: Playfair Display;
 }
 h1{
-  font-family: Noto Serif KR;
+  font-family: Playfair Display;
   color: red;
   font-weight: lighter;
   font-size: 18px;
 }
 h2 {
-  font-family: Noto Serif KR;
+  font-family: Playfair Display;
   color: pink;
   font-weight: lighter;
   font-size: 18px;
