@@ -9,16 +9,16 @@ body{
   background: rgb(245,245,245);
   color: green;
   font-size: 25px;
-  font-family: Helvetica;
+  font-family: Noto Serif KR;
 }
 h1{
-  font-family: Helvetica;
+  font-family: Noto Serif KR;
   color: red;
   font-weight: lighter;
   font-size: 18px;
 }
 h2 {
-  font-family: Helvetica;
+  font-family: Noto Serif KR;
   color: pink;
   font-weight: lighter;
   font-size: 18px;
